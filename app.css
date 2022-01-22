@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Slab", serif;
+}
+html {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-image: url("https://image.freepik.com/free-photo/breathtaking-shot-starry-night-bolonia-beach-algeciras-cadiz-spain_181624-22684.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.display__time-left {
+  height: 30rem;
+  width: 35rem;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 35rem;
+  font-size: 10rem;
+  font-weight: 500;
+  letter-spacing: 1rem;
+  color: #fffdfdc9;
+}
+
+.btn {
+  border: none;
+  font-size: 3rem;
+  width: 11rem;
+  height: 5rem;
+  border-radius: 1.5rem;
+  opacity: 0.7;
+  color: #333;
+  margin: 0 3rem;
+}
+
+.btn-start:hover {
+  transition: all 0.2s;
+  cursor: pointer;
+  background-color: #fff;
+  transform: scale(1.1);
+}
+
+.btn-stop:hover:not([disabled]) {
+  transition: all 0.2s;
+  cursor: pointer;
+  background-color: #fff;
+  transform: scale(1.1);
+}
