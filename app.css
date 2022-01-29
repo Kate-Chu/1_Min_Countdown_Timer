@@ -16,7 +16,7 @@ body {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  background-image: url("https://image.freepik.com/free-photo/breathtaking-shot-starry-night-bolonia-beach-algeciras-cadiz-spain_181624-22684.jpg");
+  background-image: url(background\ universe.jpeg);
   background-size: cover;
   background-position: center;
 }
