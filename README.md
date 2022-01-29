@@ -9,6 +9,6 @@
 <h3>Others</h3>
 <p>It's one of my daily coding challange in 2022, you can see my daily coding record here.</p>
 <ul>
-<li>Instagram: <a href:"https://www.instagram.com/amber_fragments/">amber_fragments</a></li>
-<li>Medium: <a href:"https://medium.com/p/35f753e9ea2c/edit">2022 Daily Coding Challenge (not opened yet)</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/amber_fragments/">amber_fragments</a></li>
+  <li>Medium: <a href="https://medium.com/p/35f753e9ea2c/edit">2022 Daily Coding Challange (open soon)</a></li>
 </ul>
