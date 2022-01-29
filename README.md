@@ -1,6 +1,6 @@
 # 1 Min Countdown Timer
 
-![image](https://github.com/Kate-Chu/1_min_countdown_timer/blob/main/intro%20gif.GIF)
+![image](https://github.com/Kate-Chu/1_min_countdown_timer/blob/main/intro%20gif.gif)
 <h3><a href="http://127.0.0.1:5500/04_Countdown-Timer/index.html">Static Webpage</a></h3>
 
 <h3>Description</h3>
